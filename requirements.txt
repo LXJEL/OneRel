@@ -1,0 +1,5 @@
+keras_bert==0.88.0
+numpy==1.23.5
+six==1.16.0
+torch==2.0.1
+transformers==4.30.2
